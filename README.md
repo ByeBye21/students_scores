@@ -1,1 +1,3 @@
 # students_scores
+
+İlk olarak öğrenci struct'ı ve puan doğrulama fonksiyonu giriliyor. Sonra 30 elemanlı isim ve soyisim dizisi oluşturuluyor. İlk seçenekle tüm isimler ve puanlar random olarak seçiliyor. İkinci seçenekle tüm elemanlar kullanıcı tarafından girilecek. Sonrasında 8 tane fonksiyon ile kullanıcı verilerinden sonuçlar alınabilecek. İlk fonksiyon ile sınıfın listesi yirmişer yirmişer yazdırılacak. İkinci ve üçüncü fonksiyon ile sınıfın en yüksek ve en düşük notu bulunacak. Sonraki fonksiyon, birkaç formül kullanarak sınıfın standart sapmasını hesaplayacak. Diğer fonksiyonlar ise kullanıcının istediği aralıktaki notları gösterecek.
